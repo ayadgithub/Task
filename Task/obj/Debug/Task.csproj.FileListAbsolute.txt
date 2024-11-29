@@ -1,0 +1,8 @@
+/Users/ayadhalal/Projects/Task/Task/bin/Debug/Task.exe
+/Users/ayadhalal/Projects/Task/Task/bin/Debug/Task.pdb
+/Users/ayadhalal/Projects/Task/Task/bin/Debug/Newtonsoft.Json.dll
+/Users/ayadhalal/Projects/Task/Task/bin/Debug/Newtonsoft.Json.xml
+/Users/ayadhalal/Projects/Task/Task/obj/Debug/Task.csproj.CoreCompileInputs.cache
+/Users/ayadhalal/Projects/Task/Task/obj/Debug/Task.csproj.CopyComplete
+/Users/ayadhalal/Projects/Task/Task/obj/Debug/Task.exe
+/Users/ayadhalal/Projects/Task/Task/obj/Debug/Task.pdb
